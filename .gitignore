@@ -1,0 +1,59 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Core specific
+appsettings.Development.json
+
+# Secrets
+secrets.json
+
+# Publish output
+publish/
+
+# Node modules (if using React/Angular frontend)
+node_modules/
+
+# wwwroot generated files (optional)
+wwwroot/dist/
+wwwroot/build/
+
+# Entity Framework
+Migrations/
+
+# IIS Express
+iisexpress/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+packages/
+
+# Coverage files
+coverage/
+*.coverage
+*.coveragexml
